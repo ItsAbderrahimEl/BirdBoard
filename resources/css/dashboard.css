@@ -1,0 +1,12 @@
+.button {
+    @apply
+    lg:px-5 lg:py-3 px-3 py-1.5 md:font-semibold transition-colors
+    duration-300 bg-accent rounded-lg
+    text-white hover:bg-accent-dark shadow
+}
+
+.mainSection {
+    @apply
+    flex flex-col md:flex-row justify-between
+}
+

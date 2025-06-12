@@ -1,0 +1,17 @@
+@import url('dashboard.css');
+@import url('theme.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.scroll-hidden {
+    overflow: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.scroll-hidden::-webkit-scrollbar {
+    display: none;
+}

@@ -1,0 +1,30 @@
+:root {
+    --third: #1F2937;
+    --third-fonce: #111827;
+    --accent-dark: #638C6D;
+    --accent: #5DB996;
+    --error: #F56565;
+}
+
+.light-theme {
+    --primary: #F1F5F9;
+    --secondary: #F9FAFB;
+    --secondary-fonce: #E2E8F0;
+    --header: #ffffff;
+    --normal: #030303;
+    --muted: #374151;
+    --extra-muted: #A1A7B2;
+    --inverse: #FFFFFF;
+
+}
+
+.dark-theme {
+    --primary: #13171C;
+    --secondary: #31363F;
+    --secondary-fonce: #31363F;
+    --header: #31363F;
+    --normal: #FFFFFF;
+    --muted: #D1D4C9;
+    --extra-muted: #758694;
+    --inverse: #000000;
+}
