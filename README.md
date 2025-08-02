@@ -84,16 +84,12 @@ This project is inspired by real-world team collaboration needs and the Laravel 
 
 If you discover a vulnerability, please open an issue or reach out privately.
 
-📜 License
+📄 License
 
-This project is open-source and available under the MIT license.
-
-💡 Future Enhancements
-
-Comments on tasks
-Project-level notifications
+© 2025 Abderrahim El Ouariachi. All rights reserved. 
 
 🙌 Credits
 
 Crafted with ❤️ using Laravel, Blade, Tailwind CSS, and Alpine.js.
+
 
