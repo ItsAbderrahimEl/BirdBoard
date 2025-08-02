@@ -27,12 +27,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> _You can add screenshots here to showcase project creation, task management, and activity logs._
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -102,3 +96,4 @@ Project-level notifications
 🙌 Credits
 
 Crafted with ❤️ using Laravel, Blade, Tailwind CSS, and Alpine.js.
+
