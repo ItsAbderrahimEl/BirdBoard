@@ -3,7 +3,9 @@
 **Birdbord** is a simple and elegant project management application built using **Laravel**, **Blade**, **Tailwind CSS**, and **Alpine.js**. It allows users to manage projects, track tasks, collaborate with team members, and view a live activity feed for each project — all within a clean and intuitive interface.
 
 ---
+
 [Github Code](https://github.com/ItsAbderrahimEl/BirdBoard)
+
 ---
 
 ## ✨ Features
@@ -93,6 +95,7 @@ If you discover a vulnerability, please open an issue or reach out privately.
 🙌 Credits
 
 Crafted with ❤️ using Laravel, Blade, Tailwind CSS, and Alpine.js.
+
 
 
 
