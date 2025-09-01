@@ -4,10 +4,6 @@
 
 ---
 
-[Github Code](https://github.com/ItsAbderrahimEl/BirdBoard)
-
----
-
 ## ✨ Features
 
 - ✅ Create and manage **projects**
@@ -95,6 +91,7 @@ If you discover a vulnerability, please open an issue or reach out privately.
 🙌 Credits
 
 Crafted with ❤️ using Laravel, Blade, Tailwind CSS, and Alpine.js.
+
 
 
 
